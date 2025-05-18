@@ -512,3 +512,7 @@
 18-May-2025 18:05:05.934 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor 배치 descriptor [C:\work\JSP_projects\JSP_board\src\webapp\conf\Catalina\localhost\ROOT.xml]의 배치가 [348] 밀리초 내에 완료되었습니다.
 18-May-2025 18:05:05.939 INFO [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8081"]을(를) 시작합니다.
 18-May-2025 18:05:05.982 INFO [main] org.apache.catalina.startup.Catalina.start 서버가 [458] 밀리초 내에 시작되었습니다.
+18-May-2025 18:30:28.886 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8081"]을(를) 일시 정지 중
+18-May-2025 18:30:29.077 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+18-May-2025 18:30:29.093 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8081"]을(를) 중지시킵니다.
+18-May-2025 18:30:29.109 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8081"]을(를) 소멸시킵니다.
